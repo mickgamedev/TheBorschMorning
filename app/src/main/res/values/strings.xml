@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TheBorschMorning</string>
+    <integer name="com_vk_sdk_AppId">6711505</integer>
+</resources>
